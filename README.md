@@ -1,5 +1,8 @@
 Nombre Proyecto: Inventario de una tienda
+
 grupo: #10
+
+Integrantes:
 1. Alan Mateo Escobar Agudelo
 2. Yeison Dario Rojas Mora
 3. Manuel Fernando Vasquez Vasquez
