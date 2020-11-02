@@ -1,0 +1,10 @@
+pan - 250 - 200 
+arroz - 1800 - 25 
+azucar - 1800 - 25 
+panela - 2600 - 12 
+gaseosa - 3500 - 16 
+jabon - 2200 - 24 
+frijol rojo - 3500 - 20 
+bombon - 300 - 60 
+galletas - 600 - 30 
+jugo - 1200 - 24 
