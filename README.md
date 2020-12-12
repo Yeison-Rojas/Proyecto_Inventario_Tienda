@@ -3,9 +3,8 @@ Nombre Proyecto: Inventario de una tienda
 grupo: #10
 
 Integrantes:
-1. Alan Mateo Escobar Agudelo
-2. Yeison Dario Rojas Mora
-3. Manuel Fernando Vasquez Vasquez
+1. Yeison Dario Rojas Mora
+2. Manuel Fernando Vasquez Vasquez
 
 Objetivo: Programa que permite almacenar información de productos, y luego hacer operaciones contables con estos datos
 
