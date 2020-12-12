@@ -14,7 +14,7 @@ Información básica para ejecutar programa:
 
 ![1](https://github.com/Yeison-Rojas/Proyecto_Inventario_Tienda/blob/main/Imagenes%20de%20referencia/1.0.png)
 
-![2](Imagenes de referencia/2.0.png)
+![2](https://github.com/Yeison-Rojas/Proyecto_Inventario_Tienda/blob/main/Imagenes%20de%20referencia/2.0.png)
 
 ![3](Imagenes de referencia/3.0.png)
 
