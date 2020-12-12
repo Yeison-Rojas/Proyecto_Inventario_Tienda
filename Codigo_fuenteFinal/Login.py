@@ -56,7 +56,6 @@ def login():
             if usuario.get() in dic:
                 if contraseña.get() == dic[usuario.get()]:
                     messagebox.showinfo(message="Felicitaciones", title="inicio exitoso")
-                    m=ventana_todos()
                 else:
                     messagebox.showinfo(message="Clave incorrecta", title="Error")
             else:
@@ -100,7 +99,6 @@ def login():
             if usuario.get() in dic:
                 if contraseña.get() == dic[usuario.get()]:
                     messagebox.showinfo(message="Felicitaciones", title="inicio exitoso")
-                    l=ventana_todo()
                 else:
                     messagebox.showinfo(message="Clave incorrecta", title="Error")
             else:
