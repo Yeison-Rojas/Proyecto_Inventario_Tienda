@@ -1,0 +1,8 @@
+Comida para gatos - 2600 - 10
+Comida para perros - 2600 - 14
+Huevos - 350 - 60
+Leche - 2600 - 6
+Gaseosa - 2500 - 30
+Papas Super feas - 1400 - 2300
+Chocolate - 5000 - 15
+Agua viento 330 - 1500 - 19
